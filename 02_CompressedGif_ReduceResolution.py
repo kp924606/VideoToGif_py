@@ -7,7 +7,7 @@ from PIL import Image
 
 # 讀取 GIF
 input_gif = "Data\output.gif"
-output_gif = "Data\output_compressed.gif"
+output_gif = "Data\output_ReduceResolution.gif"
 
 # 讀取 GIF 影格
 frames = imageio.mimread(input_gif)

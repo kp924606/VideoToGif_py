@@ -9,11 +9,11 @@
     02_CompressedGif_ReduceColor.py
 
     Before:
-    22,638 KB
+    25,756 KB
     (4秒車流影片)
 
     After:
-    02_CompressedGif_ReduceResolution.py >  6,832  KB
-    02_CompressedGif_ReduceFPS.py        > 11,440  KB
-    02_CompressedGif_ReduceColor.py      > 17,175  KB
+    02_CompressedGif_ReduceResolution.py >  7,772  KB
+    02_CompressedGif_ReduceFPS.py        > 12,993  KB
+    02_CompressedGif_ReduceColor.py      > 20,042  KB
 
