@@ -1,0 +1,19 @@
+
+1.將影像轉Git圖片檔案
+    01_VideoToGif.py
+
+
+2.將原本的Git檔案大小再壓低
+    02_CompressedGif_ReduceResolution.py
+    02_CompressedGif_ReduceFPS.py
+    02_CompressedGif_ReduceColor.py
+
+    Before:
+    22,638 KB
+    (4秒車流影片)
+
+    After:
+    02_CompressedGif_ReduceResolution.py >  6,832  KB
+    02_CompressedGif_ReduceFPS.py        > 11,440  KB
+    02_CompressedGif_ReduceColor.py      > 17,175  KB
+

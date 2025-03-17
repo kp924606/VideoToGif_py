@@ -1,0 +1,9 @@
+yolov8x.pt
+
+# 忽略 Data 資料夾內的所有檔案
+Data/*
+
+# 但保留 Data 資料夾本身
+!Data/
+
+
