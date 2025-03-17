@@ -17,7 +17,6 @@ cv2.namedWindow('YOLOv8', cv2.WINDOW_NORMAL)
 
 # 影像來源
 target = fr"D:\Video\Traffic_01.mp4"
-target = fr"D:\Development\RealTimeObjectDetection_YOLOv8_py\Video\Traffic_01.mp4"
 
 # 載入 YOLOv8 模型
 model = YOLO('yolov8x.pt')
