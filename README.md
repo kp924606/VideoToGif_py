@@ -71,6 +71,37 @@ pip install imageio
 
 ------
 
+## 4. Result：
+
+1.將影像轉Git圖片檔案
+
+   01_VideoToGif.py
+
+
+2.將原本的Git檔案大小再壓低
+
+  - 02_CompressedGif_ReduceResolution.py
+   
+  - 02_CompressedGif_ReduceFPS.py
+   
+  - 02_CompressedGif_ReduceColor.py
+
+   Before:
+   
+   25,756 KB
+   (4秒車流影片)
+
+
+   After:
+   
+  - 02_CompressedGif_ReduceResolution.py >  7,772  KB
+   
+  - 02_CompressedGif_ReduceFPS.py        > 12,993  KB
+   
+  - 02_CompressedGif_ReduceColor.py      > 20,042  KB
+
+------
+
 ## About Me
 Thanks & Best Regards !
 
